@@ -91,3 +91,9 @@ Student-Management-System/
 │   ├── create_tables.sql           # SQL script to create the database tables (students, courses, grades)
 ├── requirements.txt                # Python dependencies (if any)
 └── README.md                       # Project description and structure
+
+```
+### Developed by
+
+**Prajwal Devaraj**
+
